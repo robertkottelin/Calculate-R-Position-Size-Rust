@@ -1,0 +1,1 @@
+C:\Users\Robert\PROJECTS\Calculate-R-Position-Size-Rust\Calculate-R-Position-Size\target\debug\libCalculate_R_Position_Size.rlib: C:\Users\Robert\PROJECTS\Calculate-R-Position-Size-Rust\Calculate-R-Position-Size\src\lib.rs
