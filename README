@@ -1,0 +1,15 @@
+This rust application will calculate your asset position size based on: 
+- How much you want to trade with
+- How much you want to risk
+- What your stop loss is 
+- If it's full size (1R), half size (0.5R) or lower size
+
+Input:
+- Trade size (USD)
+- R value (ex 1)
+- Risk percentage as float (ex 0.02)
+- Stop loss delta (USD)
+
+Use "cargo run trade size, R-value, risk percentage, stop loss" without commas
+
+Example: cargo run 1000 1 0.02 500
